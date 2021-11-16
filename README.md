@@ -26,7 +26,7 @@ Kudos if you can tell me who said these quotes without searching the Internet fo
 
 ## Deliverables
 
-Submit your source code to Github Classroom along with the decrypted phrases. Your submission must follow the following rules, else *I will not grade it and you will receive a zero for the submission*
+Submit your source code to Github Classroom along with the decrypted phrases. Your submission must follow the following rules, else *I will not grade it and you will receive a zero for the submission*:
 
 * Do not use compression on your files
 * Make sure that all significant code is *commented* with your own explanations
