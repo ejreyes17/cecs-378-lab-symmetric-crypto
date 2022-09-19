@@ -1,4 +1,4 @@
-# CECS 378 Lab 1: Symmetric Cryptography
+# CECS 378 Lab: Symmetric Cryptography
 
 ## Assignment Description
 
