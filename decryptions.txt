@@ -1,0 +1,12 @@
+Enter the text to encrypt: He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you.
+Enter the modified alphabet key: qwertyuiopasdfghjklzxcvbnm
+Encrypted text: it vig youizl vozi dgflztkl ligxsr sgga zg oz ziqz it iodltsy rgtl fgz wtegdt q dgflztk qfr oy ngx uqmt sgfu ofzg qf qwnll zit qwnll qslg uqmtl ofzg ngx
+
+Enter the text to encrypt: There is a theory which states that if ever anybody discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.
+Enter the modified alphabet key: qwertyuiopasdfghjklzxcvbnm
+Encrypted text: zitkt ol q zitgkn vioei lzqztl ziqz oy tctk qfnwgrn rolegctkl tbqezsn viqz zit xfoctklt ol ygk qfr vin oz ol itkt oz voss oflzqfzsn rolqhhtqk qfr wt kthsqetr wn lgdtziofu tctf dgkt womqkkt qfr oftbhsoeqwst zitkt ol qfgzitk zitgkn vioei lzqztl ziqz ziol iql qsktqrn iqhhtftr
+
+Enter the text to encrypt: Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off - then, I account it high time to get to sea as soon as I can.
+Enter the modified alphabet key: qwertyuiopasdfghjklzxcvbnm
+Encrypted text: vitftctk o yofr dnltsy ukgvofu ukod qwgxz zit dgxzi vitftctk oz ol q rqdh rkommsn fgctdwtk of dn lgxs vitftctk o yofr dnltsy ofcgsxfzqkosn hqxlofu wtygkt egyyof vqktigxltl qfr wkofuofu xh zit ktqk gy tctkn yxftkqs o dttz qfr tlhteoqssn vitftctk dn inhgl utz lxei qf xhhtk iqfr gy dt ziqz oz ktjxoktl q lzkgfu dgkqs hkofeohst zg hktctfz dt ykgd rtsowtkqztsn lzthhofu ofzg zit lzkttz qfr dtzigroeqssn afgeaofu htghstl iqzl gyy  zitf o qeegxfz oz ioui zodt zg utz zg ltq ql lggf ql o eqf
+

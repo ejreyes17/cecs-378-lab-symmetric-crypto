@@ -24,8 +24,6 @@ Use the two smaller programs that you write to encrypt the following phrases. Ma
 
 Kudos if you can tell me who said these quotes without searching the Internet for them.
 
-### Deliverables
-
 Submit your source code through your git repository along with the decrypted phrases in `*.txt` format. Your submission must follow the following rules, else *I will not grade it and you will receive a zero for the submission*:
 
 * Do not use compression on your files
